@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextFieldsStyle">
+        <item name="android:background">@color/primaryLightColor</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">@dimen/text_field_size</item>
+        <item name="android:paddingLeft">@dimen/task_item_padding</item>
+        <item name="android:paddingRight">@dimen/task_item_padding</item>
+        <item name="android:paddingTop">@dimen/task_item_paddingTop</item>
+        <item name="android:paddingBottom">@dimen/text_bottom_padding</item>
+    </style>
+</resources>
